@@ -1,0 +1,10 @@
+Package: HT
+Type: Package
+Title: Hottelling T-square Test
+Version: 0.1.0
+Author: Abu Sufiun Rhyme & Md Monowar Hossain Apon 
+Maintainer: Apon & Rhyme <mmhossain1@isrt.ac.bd> <asrhyme@isrt.ac.bd>
+Description: For calculating Hottelling T-Square hypothesis tesing (one sample & two sample)
+License: ar_isrt
+Encoding: UTF-8
+LazyData: true
